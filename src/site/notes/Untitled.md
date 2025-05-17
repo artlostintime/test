@@ -1,7 +1,0 @@
----
-{"dg-publish":true,"permalink":"/untitled/","tags":["gardenEntry"]}
----
-
-# This is a page
-
-it is literally so weird
